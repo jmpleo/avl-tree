@@ -19,3 +19,7 @@ g++ main.cpp -o avl
 dot -Tpng example.dot -o example.png && open example.png
 ```
 
+### Example
+
+![example](./example.png)
+
