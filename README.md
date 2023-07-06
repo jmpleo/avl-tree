@@ -6,13 +6,13 @@
 g++ main.cpp -o avl
 ```
 
-### Create random tree
+### Create a random tree
 
 ```bash
 ./avl
 ```
 
-### Visualization tree
+### Visualization
 
 ```bash
 # sudo apt install graphviz 
